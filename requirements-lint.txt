@@ -10,3 +10,4 @@ rstcheck==6.1.1; python_version >= '3.7'
 
 requests>=2.27.1
 paramiko==3.0.0; platform_python_implementation != 'PyPy'
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
