@@ -9,7 +9,7 @@ pytest-benchmark[histogram]==4.0.0
 cryptography==39.0.0
 
 # NOTE: Only needed by nttcis loadbalancer driver
-pyopenssl==23.0.0
+pyopenssl==24.0.0
 
 more-itertools==9.0.0
 
